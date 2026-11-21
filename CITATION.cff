@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Sepaul Research Empirical Market Datasets"
+message: "If you use these datasets in your research, working papers, or empirical benchmarks, please cite them using the metadata below."
+type: dataset
+version: "1.0.0"
+date-released: "2026-11-20"
+license: CC-BY-4.0
+repository-code: "https://github.com/sepaulresearch/market-datasets"
+url: "https://sepaulresearch.com"
+abstract: >-
+  Curated multi-timeframe historical OHLCV financial datasets (XAU/USD M1-H1
+  and BTC/USD M1) captured from Raw-Spread ECN/STP OTC execution feeds
+  (Zero-Spread / Commission-Based Tier), indexed in UTC and accompanied by
+  SHA-256 integrity checksums for reproducible quantitative finance and
+  non-linear dynamical systems research.
+keywords:
+  - quantitative-finance
+  - market-microstructure
+  - financial-datasets
+  - ohlcv
+  - xauusd
+  - btcusd
+  - time-series
+  - empirical-finance
+authors:
+  - family-names: "Sepaul"
+    given-names: "Mikael Bradford S. R."
+    affiliation: "Sepaul Research — Department of Quantitative Research & Modeling"
+    orcid: "https://orcid.org/0009-0005-9817-2488"
+    email: "mikael@sepaulresearch.com"
